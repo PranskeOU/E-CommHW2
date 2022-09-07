@@ -12,4 +12,6 @@ E-mail: <input type="text" name="email"><br>
   Welcome <?php echo $_POST["name"]; ?><br>
 Your email address is: <?php echo $_POST["email"]; ?>
   
+  USE POST WITH SENSITIVE INFO, USE GET WITH OTHER INFO. GET MAKES IT SHOW IN THE URL.
+  
   />
