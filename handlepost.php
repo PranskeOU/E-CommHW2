@@ -1,17 +1,6 @@
-<html>
-  <!Put this in a separate file:
-  
-  <form action="welcome.php" method="post">
-Name: <input type="text" name="name"><br>
-E-mail: <input type="text" name="email"><br>
-<input type="submit">
-</form>
-  
-  Then put this in this file:
-  
+<?php require_once("header.php"); ?>
+
   Welcome <?php echo $_POST["name"]; ?><br>
 Your email address is: <?php echo $_POST["email"]; ?>
-  
-  USE POST WITH SENSITIVE INFO, USE GET WITH OTHER INFO. GET MAKES IT SHOW IN THE URL.
-  
-  />
+
+<?php require_once("footer.php"); ?>
