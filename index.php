@@ -1,8 +1,10 @@
 <?php require_once("header.php"); ?>
-<h5>Nick Pranske's Website</h5>
+<h5>Form Submit</h5>
+<div>
   <form action="handlepost.php" method="post">
       Name: <input type="text" name="name"><br>
       E-mail: <input type="text" name="email"><br>
     <input type="submit">
   </form>
+<div/>
 <?php require_once("footer.php"); ?>
