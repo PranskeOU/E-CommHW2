@@ -1,4 +1,7 @@
 <?php require_once("header.php"); ?>
+<style>
+      div {text-align: center;}
+<style/>
 <h5>Form Submit</h5>
 <div>
   <form action="handlepost.php" method="post">
