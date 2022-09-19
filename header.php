@@ -37,11 +37,11 @@
           <a class="nav-link disabled">Disabled</a>
         </li>
       </ul>
--->
-      <form class="d-flex" role="search" style="text-align:right; margin:10px">
+      <form class="d-flex" role="search" style="text-align:right;">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success" type="submit">Search</button>
       </form>
+-->
     </div>
   </div>
 </nav>
