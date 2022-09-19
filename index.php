@@ -1,6 +1,8 @@
 <?php require_once("header.php"); ?>
 <br><br/>
-<h5>HTTP POST Form Submit:<h5/>
+<h5 style="text-align:center; margin:auto;">
+  HTTP POST Form Submit:
+<h5/>
 <br><br/><br><br/>
 <div style="text-align:center; margin:auto">
   <form action="handlepost.php" method="get">
