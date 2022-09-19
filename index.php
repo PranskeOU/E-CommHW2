@@ -1,6 +1,5 @@
 <?php require_once("header.php"); ?>
-<h5>Form Submit</h5>
-<div style="text-align:center">
+<div style="text-align:center; margin:auto">
   <form action="handlepost.php" method="get">
       Name: <input type="text" name="name"><br>
       E-mail: <input type="text" name="email"><br>
