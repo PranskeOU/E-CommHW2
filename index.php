@@ -1,15 +1,5 @@
 <?php require_once("header.php"); ?>
-<div>
-  <p>
-  
-  
-  
-  
-  
-  
-  <p/>
-<div/>
-<div style="text-align:center; margin:auto">
+<div style="text-align:center; margin:auto; display:flex">
   <form action="handlepost.php" method="get">
       Name: <input type="text" name="name"><br>
       E-mail: <input type="text" name="email"><br>
