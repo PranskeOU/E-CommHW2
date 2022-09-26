@@ -1,0 +1,4 @@
+<?php
+function MyFunction() {
+      echo "This is a function.";
+}
