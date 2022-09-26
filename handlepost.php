@@ -1,7 +1,7 @@
 <?php require_once("header.php"); ?>
 <br><br/>
 <h5 style="text-align:center;">
-  Thank you for your submission.
+  <?php ThankYouMessage(); ?>
 <h5/>
 <br><br/><br><br/>
 <div style="text-align:center; margin:auto;">
