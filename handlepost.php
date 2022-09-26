@@ -1,4 +1,5 @@
 <?php require_once("header.php"); ?>
+<?php require_once("ThankYouMessage.php"); ?>
 <br><br/>
 <h5 style="text-align:center;">
   Thank you for your submission.
